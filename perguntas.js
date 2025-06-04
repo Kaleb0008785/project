@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é Body?',
-    'É uma tag da programação. Aode fica o corpo do Site'
+    'É uma tag da programação. Aonde fica o corpo do Site'
 )
 
 criaCartao(
